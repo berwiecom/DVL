@@ -1,7 +1,25 @@
-# DVL..link-lists
+# DVL : Link-lists
 ========================================================================
 
 Links, ressources on the web for DVL, GFX, HST, WEB, ...
+
+.
+
+2 GFX : Colorcodes
+------------------------------------------------------------------------
+
+![pic](https://user-images.githubusercontent.com/34105153/188292242-17539eb5-b1c9-4309-b7b0-b9e629eb3ce4.png)
+http://colorcode.is
+
+![pic](https://user-images.githubusercontent.com/34105153/188292274-394b05fc-0ff2-4343-8172-74ce39860a32.png)
+https://encycolorpedia.com
+
+![pic](https://user-images.githubusercontent.com/34105153/188292429-7b3f9427-6947-40d7-8237-cba7620bc1df.png)
+https://html-color.codes
+
+![pic](https://user-images.githubusercontent.com/34105153/188292400-c51ef750-5ab7-4627-a442-a057d893b7de.png)
+https://colorcodehex.com
+https://colorcodehex.com/hex-to-rgb.html
 
 .
 

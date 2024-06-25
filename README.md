@@ -16,7 +16,7 @@ https://hover.com/domains/results?q=mcfit.wien#..from.enom.com   33,- EUR
 
 ### 3 Provider
 
-https://hosttest.de/vergleich/com-domain.html
+https://hosttest.de/vergleich/com-domain.html  
 https://webhosterwissen.de/domains/#..Ueberblick
 
 
@@ -43,22 +43,22 @@ curl -X GET "https://api.freenom.com/v2/domain/search.xml?email=XXX&password=YYY
 
 ##### 5 Freenom Probs & Tips
 
-Hidden methods for free domains
+Hidden methods for free domains  
 https://gilect.com/blog/2023/03/31/the-hidden-methods-to-getting-a-free-domain/
 
-Don’t buy domains ...
+Don’t buy domains ...  
 https://gilect.com/blog/2023/03/30/dont-buy-a-domain-before-you-read-this/
 
-Mistakes when making websites
+Mistakes when making websites  
 https://gilect.com/blog/2023/03/28/6-most-common-mistakes-when-making-a-website-and-how-to-avoid-them/
 
-Freenom is having “technical issues”
+Freenom is having “technical issues”  
 https://gilect.com/blog/2023/04/14/the-real-reason-freenom-is-having-technical-issues-and-why-free-domains-wont-exist-for-a-long-time/
 
-Freenom alternatives
+Freenom alternatives  
 https://gilect.com/blog/2023/04/26/top-4-best-alternatives-to-freenom/
 
-Domain Hoster
+Domain Hoster  
 https://hostingpill.com/freenom-alternatives/
 
 .
